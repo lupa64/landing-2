@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-image: url("..//image/banner1.jpg") ;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    
+}
+.display-4{
+    color: black;
+    text-align: left;
+    padding-left: 115px;
+    padding-top: 150px;
+    
+}
+.lead{
+    color: rgb(1, 3, 17);
+    font-size: 30px;
+    text-align: left;
+    padding-left: 115px;
+    padding-bottom: 20px;
+    
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+#img{
+    height: 250px;
+}
+#img1{
+    height: 250px;
+}
+#img2{
+    height: 230px;
+}
+footer {
+    margin-top: 20px;
+}
+#product{
+ font-size: 25px;
+}
+
+#img4{
+  padding-right: 50px;
+}
